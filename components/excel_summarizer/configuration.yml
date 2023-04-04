@@ -2,5 +2,7 @@ description: This component is designed to take an input Excel workbook (.xlsx) 
   generate a summary report of its contents in a Word document (.docx) format. It
   reads the data from the input Excel workbook, processes it, and generates a comprehensive
   summary report in a Word document.
+input-class: ExcelSummarizerIn
 name: ExcelSummarizer
+output-class: ExcelSummarizerOut
 parameters: {}
